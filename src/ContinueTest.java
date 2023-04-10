@@ -1,4 +1,4 @@
-
+//continue문 연습
 public class ContinueTest {
 
 	public static void main(String[] args) {
