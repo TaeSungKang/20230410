@@ -29,7 +29,7 @@ public class ArrayTest {
 //		System.out.println(a[5]);
 //		
 		System.out.println(c.length);
-		System.out.println(b);
+//		System.out.println(b);
 
 	}
 
